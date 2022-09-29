@@ -5,3 +5,4 @@ This Projet contains 3 tasks:<br/>
 Task1: Interface with a stock price data feed. <br/>
 Task2: Use JPMC framework and tools.<br/>
 Task3: Display data visually for traders.<br/>
+![alt text](https://user-images.githubusercontent.com/107063850/193079260-30abb24d-df03-4403-bc0b-a37df6c43ec5.png)
